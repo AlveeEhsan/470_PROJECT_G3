@@ -1,0 +1,1 @@
+<a href="{{route('login')}}"> <img src="assets/images/logo.jpg" alt="" style="width: 160px;  "> </a>
